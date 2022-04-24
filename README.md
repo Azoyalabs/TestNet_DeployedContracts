@@ -10,6 +10,6 @@ Here you'll find the address of contracts currently deployed on testnet and used
 codeid: 66553  
 address: terra1yn0r5rnyllg4mtyz7nqsezhr56pgqqs9d7tdra  
 
-See it
+See it on   
 TerraFinder: https://finder.terra.money/testnet/address/terra1yn0r5rnyllg4mtyz7nqsezhr56pgqqs9d7tdra  
 Terrascope: https://terrasco.pe/testnet/address/terra1yn0r5rnyllg4mtyz7nqsezhr56pgqqs9d7tdra  
