@@ -17,7 +17,7 @@ Terrascope: https://terrasco.pe/testnet/address/terra1yn0r5rnyllg4mtyz7nqsezhr56
 
 
 **Subscription** (from https://github.com/Azoyalabs/Subscription)   
-CodeId: 66741
+CodeId: 66741    
 Address: terra1cdt0gmccw3dlncaw7y7zj670kyy488mc4tnk4t  
 
 See it on  
