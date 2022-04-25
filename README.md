@@ -12,7 +12,7 @@ address: terra1yn0r5rnyllg4mtyz7nqsezhr56pgqqs9d7tdra
 
 See it on   
 TerraFinder: https://finder.terra.money/testnet/address/terra1yn0r5rnyllg4mtyz7nqsezhr56pgqqs9d7tdra  
-Terrascope: https://terrasco.pe/testnet/address/terra1yn0r5rnyllg4mtyz7nqsezhr56pgqqs9d7tdra  
+Terrascope: https://terrasco.pe/testnet/address/terra1yn0r5rnyllg4mtyz7nqsezhr56pgqqs9d7tdra  \newline
 
 
 
